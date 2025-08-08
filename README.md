@@ -5,7 +5,7 @@ This script batch converts videos from `/sdcard/Download/HighS/` to **720p resol
 ## 🔧 Usage (Termux)
 ```bash
 pkg install git ffmpeg -y
-git clone https://github.com/Piyash-ORG/ffmpeg-convert-720p.git
+git clone https://github.com/jiocreator/ffmpeg-convert-720p.git
 cd ffmpeg-convert-720p
 chmod +x convert.sh
 ./convert.sh
